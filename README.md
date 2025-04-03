@@ -18,7 +18,6 @@ Click the links below to experience each feature in action:
 
 ## 🛠️ Technologies Used
 - **HTML, CSS, JavaScript** – Core technologies for the UI interactions.
-- **React.js** – Used in some projects for dynamic effects.
 - **Vercel** – Hosting platform for live demos.
 
 ## 🔥 How to Use
@@ -29,14 +28,6 @@ Click the links below to experience each feature in action:
 2. Navigate to the project directory:
    ```bash
    cd interactive-ui-features
-   ```
-3. Install dependencies (if applicable):
-   ```bash
-   npm install
-   ```
-4. Run the project locally:
-   ```bash
-   npm start
    ```
 
 ## 🤝 Contributing
