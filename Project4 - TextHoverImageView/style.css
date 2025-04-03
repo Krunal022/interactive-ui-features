@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: #111;
+    position: relative;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.5vw;
+    color: #fff;
+    margin: 0 0 0 20px;
+}
+
+.elem {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    width: 100%;
+    height: 120px;
+    border-bottom: 2px solid white;
+}
+
+.elem h1 {
+    mix-blend-mode: difference;
+    z-index: 9;
+    position: relative;
+    font-size: 5.5vw;
+    font-family: aeonik;
+}
+
+.elem img {
+    width: 150px;
+    /* display: none; */
+    opacity: 0;
+    /* transform: translate(-50%,-50%); */
+    transition: all linear 0.3s;
+    /* mix-blend-mode: difference; */
+    border-radius: 50%;
+    object-fit: cover;
+    height: 150px;
+    position: absolute;
+}
