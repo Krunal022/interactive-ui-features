@@ -23,7 +23,7 @@ Click the links below to experience each feature in action:
 ## 🔥 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-ui-features.git
+   git clone https://github.com/Krunal022/interactive-ui-features.git
    ```
 2. Navigate to the project directory:
    ```bash
